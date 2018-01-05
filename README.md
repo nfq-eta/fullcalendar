@@ -1,5 +1,7 @@
 # FullCalendar [![Build Status](https://travis-ci.org/fullcalendar/fullcalendar.svg?branch=master)](https://travis-ci.org/fullcalendar/fullcalendar)
 
+This branch contains a fix to the 3.4.0 version of FullCalendar. In listDay view, end date is displayed if the event is multi-day.
+
 A full-sized drag & drop event calendar (jQuery plugin).
 
 - [Project website and demos](http://fullcalendar.io/)

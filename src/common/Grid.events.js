@@ -909,7 +909,7 @@ Grid.mixin({
 			displayEnd = this.displayEventEnd;
 		}
 
-		if (this.displayEventTime && range.start.hasTime()) {
+		if (this.displayEventTime) {
 			if (displayEnd && range.end) {
 				return this.view.formatRange(range, formatStr);
 			}
