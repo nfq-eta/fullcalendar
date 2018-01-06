@@ -1,5 +1,5 @@
 {
-  "name": "nfq-eta/fullcalendar",
+  "name": "fullcalendar/fullcalendar",
   "type": "library",
   "description": "Full-sized drag & drop event calendar",
   "keywords": [
@@ -21,8 +21,5 @@
   "require": {
     "components/jquery": "2 - 3",
     "moment/moment": "^2.9.0"
-  },
-  "replace": {
-    "bower-asset/fullcalendar":"3.4.0"
   }
 }
